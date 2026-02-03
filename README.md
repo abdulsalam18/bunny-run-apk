@@ -6,7 +6,7 @@
 classpath 'com.google.gms:google-services:4.4.0'
 ```
 ## build.gradle
-**Path: app/build.gradle (Module level)**
+Path: app/build.gradle (Module level)
 **plugins**
 ```gradle
 id 'com.google.gms.google-services'
