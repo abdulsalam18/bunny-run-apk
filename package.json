@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-startapp",
+  "version": "1.0.0",
+  "description": "StartApp Cordova Plugin (Banner, Interstitial, Reward, Share, More)",
+  "cordova": {
+    "id": "com.abdulsalam.startapp",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "startapp",
+    "ads",
+    "plugin",
+    "android"
+  ],
+  "author": "Abdul Salam Studio",
+  "license": "MIT"
+}
